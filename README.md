@@ -1,3 +1,5 @@
+gogog
+
 # SILENT PROTOCOL BOT
 
 ## TUTORIAL : ##
